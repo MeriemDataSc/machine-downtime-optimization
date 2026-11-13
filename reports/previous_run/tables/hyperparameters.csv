@@ -1,0 +1,5 @@
+Modèle,AUC CV (tuning),Meilleurs hyperparamètres,Durée (s)
+Random Forest,0.9987,"{'n_estimators': 400, 'min_samples_leaf': 1, 'max_features': 'log2', 'max_depth': None}",43
+Gradient Boosting,0.9998,"{'subsample': 0.9, 'n_estimators': 300, 'max_depth': 3, 'learning_rate': 0.15}",20
+XGBoost,0.9994,"{'subsample': 0.9, 'n_estimators': 500, 'max_depth': 4, 'learning_rate': 0.15, 'colsample_bytree': 1.0}",6
+AdaBoost,0.9993,"{'n_estimators': 200, 'learning_rate': 1.0}",24

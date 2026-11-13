@@ -1,0 +1,1 @@
+latest_run contient les résultats générés à partir du script corrigé. previous_run conserve les sorties fournies au départ. Les seuils économiques et les scores doivent encore être validés avec un test chronologique indépendant.

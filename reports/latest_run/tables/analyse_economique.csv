@@ -1,0 +1,7 @@
+Modèle,FN,FP,Coût (seuil 0.5) €,Économie vs sans modèle €,Économie %,Seuil optimal,Coût (seuil opt.) €,Économie (seuil opt.) €
+Voting (soft),1,0,960000,3780000,79.7,0.3,950400,3789600
+XGBoost,1,1,960800,3779200,79.7,0.3,949600,3790400
+Stacking (LR),1,1,960800,3779200,79.7,0.1,949600,3790400
+Gradient Boosting,1,1,960800,3779200,79.7,0.0,954400,3785600
+AdaBoost,0,5,952000,3788000,79.9,0.5,952000,3788000
+Random Forest,1,5,964000,3776000,79.7,0.4,952000,3788000
